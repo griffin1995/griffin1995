@@ -1,32 +1,40 @@
-                            
-                         &&&&&&&&&&                          jackgriffin
-                       &&&&&&&&&&&&&&&                       OS: .....................  Windows, Linux, macOS
-                     &&&&&&&&&&&&&&&&&&&                     --------------------------------------------------------------------
-                    &&&&&&&&&&&&&&&&&&&&                     Uptime: ................  23 years, 4 months, 12 days
-                   &&&::::::::;+++x$&&&&&                    Host: ...................  Self-Employed
-                   &&;::..:;;:;++xX$&&&&&&                   Kernel: ................  Custom Development Environment
-                   &X;;;::::;+;;+xX&&&&&&&                   IDE: ....................  VSCode, JetBrains Suite
-                   X+;;:..::;++;xXX$&&&&&                    
-                   X+;x;xxXXx;X&&&&&&&&&&&                   Languages.Programming:  Python, JavaScript, Java, C++
-                  +;x;:;+x$X:;x&&$$&&&&&&&&                  Languages.Computer: .... HTML, CSS, JSON, LaTeX, YAML
-                   ;+;:.:::::;x&&&XXX$&&&&                   Languages.Real: ........ English, Spanish
-                   ++;::.:;;;.x&&&$$$&&&&&                   
-                    ;;::.;+:+;&&&&XX$&&&&                    Hobbies.Software: ...... AI Development, Open-Source Contributions
-                     ;;::;+;+xX&&$$$&&&&                     Hobbies.Hardware: ...... PC Building, Overclocking
-                     x;;:+;:;+X&&$X$&&&&&                    
-                      x;;:::;+xX$$&&&&&&&&                   --------------------------------------------------------------------
-                       +++;:;+x$&&&&&&&&&&&&&                - Contact -
-                       &+x&&&&&&&&&&&&&&&&&&&&&&             Email.Personal: ........ jtgriffin95@gmail.com
-                    xxxX$+xxx$&$&&&&&&&$$&&$X&XXXX$$         Email.Work: ............ jack@griffin.dev
-                xxx+xx$&$&&&&&&&&&&&&&&X$$$XX&XXxXXX$X$&     LinkedIn: .............. linkedin.com/in/jackgriffindev
-             xxxxxxx+X&&X$$&&&&&&&&&&&xxXXXx$&xxXxxXXX$$$&   GitHub: ................ github.com/griffin1995
-          Xxxxxxx+++x&&X$$$$$$$&&&$&$$xXxxXxXXxxxxXXXXX$$$X$&  Discord: ............... jackgriffin#1234
-         Xxxxxx+++++$&&XXXXXXXX$$$&&$xxXxxxXx&$xxxxXX$XX$$$&&  
-         xxxxxx++x+x&&XXX$$$$$$$$$$$X+xxxxxX&&xxxxXXXXX$$X$&&  --------------------------------------------------------------------
-        XXxxxx+++++$&$XXXXXXXXXX$$$$+xxxxxxx&XXxxX$XXX$&XX&&&  - GitHub Stats -
-        XXxxxx+xxxx&&XXXX$XXXXX$$$$$+xxxxxx&$XXxX&&XxX&&x$&&&    Repos: ................. 120  {Contributed: 180}  |  Stars: ...... 400
-        Xxxxxx+xxx$&XXXX$$XX$X$$$$$xxxxxxxx&XXxxX&&XX&&xX&&&&    Commits: ............... 3,200  |  Followers: .... 250
-        XXXXxxxxxx&&X$$X$$$$$$$$$$$+xxxxxx&XXXXx$&&XX&&X$$&&&    Lines of Code on GitHub: 520,000  ( 600,000++, 120,000-- )
+```
+                                                             
+                     &&&&&&&&&&&&&&&&&                       jackgriffin
+                   &&&&&&&&&&&&&&&&&&&&&&&                   OS: .....................  Windows, Linux, macOS
+                 &&&&&&&&&&&&&&&&&&&&&&&&&&                  --------------------------------------------------------------------
+               &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&                Uptime: ................  23 years, 4 months, 12 days
+              &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&               Host: ...................  Self-Employed
+             &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&              Kernel: ................  Custom Development Environment
+            &&&&&&&X+;::;;++++xxxxX$$&&&&&&&&&&&             IDE: ....................  VSCode, JetBrains Suite
+            &&&+::::..:::::::;;+++++xxX&&&&&&&&&             
+           &&&X;;:::...:;;;::;;++++xxX$&&&&&&&&&             Languages.Programming:  Python, JavaScript, Java, C++
+           &&X+;::::...::;;;;;;;+++xXX$&&&&&&&&&&            Languages.Computer: .... HTML, CSS, JSON, LaTeX, YAML
+           &XX+;;;;:::::::;++;;;++xxX$&&&&&&&&&&&            Languages.Real: ........ English, Spanish
+           $Xx+;;;;:.....:;;;;;:;+xxX$$&&&&&&&&&             
+           $x++;;;+xxx;;;;;;++++xXX$&&&&&&&&&&&&             Hobbies.Software: ...... AI Development, Open-Source Contributions
+           $x+;;+X+;;+x$$Xx+++X$&&&&&$$$&&&&&&&&&&           Hobbies.Hardware: ...... PC Building, Overclocking
+          x;xx;;;+xX;x&&&$X;::X&&&&$x&&&&&&&&&&&&&           
+          x;+x;;:;;;;+xX$X+:::x&&&&XX$&&&&&&&&&&&&           --------------------------------------------------------------------
+          +:;+;::::::;;;::::::X&&&&$XX$$&$$&&&&&&&           - Contact -
+           ;:+;;::..::::..::;;x&&&&$$XXXX$$&&&&&&            Email.Personal: ........ jtgriffin95@gmail.com
+            ;++::::...:;:;;;::x&&&&&$XXX$&&&&&&&&            Email.Work: ............ jack@griffin.dev
+            +;+;:::...;+x;XX;+&&&&&&$XX$$&&&&&&&&            LinkedIn: .............. linkedin.com/in/jackgriffindev
+            x;+;::::.:++:::;;x&&&&&$XXX$$&&&&&&&             GitHub: ................ github.com/griffin1995
+              +;:::::::;;;;;;X+&&&&$$XX$$&&&&&               Discord: ............... jackgriffin#1234
+               +;:::::+x;xxXX$&&&&&$$$$$&&&&&&               
+               +x;;::x+::;;++xX$&&&$Xx$&&&&&&&&              --------------------------------------------------------------------
+                +;;;;:::::;++XXX$$$$$X&&&&&&&&&&             - GitHub Stats -
+                 +;;;:::::;;++xxXX$$&&&&&&&&&&&&&&           Repos: ................. 120  {Contributed: 180}  |  Stars: ...... 400
+                  x+;;;:;::;++xX$$$&&&&&&&&&&&&&&&&&         Commits: ............... 3,200  |  Followers: .... 250
+                   +x$x+;+;xx+x$&&&&&&&&&&&&&&&&&&&&&&$      Lines of Code on GitHub: 520,000  ( 600,000++, 120,000-- )
+                 X&x+x$&$XX$$$&&&&&&&&&&&&&&&&&&&&&&&&&&&&   
+                xX&&++xxxX$&&&&&&&&&&&&&&&&&&&$&&&&&$$$&$$$$$
+             xxx+XX&X++xxxxX$$$$$&&&&&&&&&&&&$$$&&&$$XX&XXXXX
+         xxx+xx+X$$$XXXXxxxX$$&&&&&&&&&&&&&&$X$$$$$$XXX&XXXXX
+```
+
+
 ```
 
 
