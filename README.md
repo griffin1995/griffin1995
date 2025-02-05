@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Jack Griffin!
 
-I'm a passionate **Full Stack Developer & Data Scientist** with expertise in **machine learning, quantitative finance, and web development**.  
-I love working on innovative projects that combine **AI, cloud computing, and optimization techniques**.  
+I'm a passionate **Full Stack Developer & Data Scientist** with expertise in **machine learning, quantitative finance, and web development**. I love working on innovative projects that combine **AI, cloud computing, and optimization techniques**.
 
 ---
 
@@ -29,6 +28,11 @@ I love working on innovative projects that combine **AI, cloud computing, and op
 
 **Cloud & DevOps:**  
 ☁️ AWS (EC2, S3, Load Balancing) &nbsp;&nbsp; 🖥️ Hadoop &nbsp;&nbsp; 🐳 Docker  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=griffin1995&show_icons=true&theme=radical)  
 
 ---
 
