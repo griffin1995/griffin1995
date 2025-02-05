@@ -1,3 +1,36 @@
+                            
+                         &&&&&&&&&&                          jackgriffin
+                       &&&&&&&&&&&&&&&                       OS: .....................  Windows, Linux, macOS
+                     &&&&&&&&&&&&&&&&&&&                     --------------------------------------------------------------------
+                    &&&&&&&&&&&&&&&&&&&&                     Uptime: ................  23 years, 4 months, 12 days
+                   &&&::::::::;+++x$&&&&&                    Host: ...................  Self-Employed
+                   &&;::..:;;:;++xX$&&&&&&                   Kernel: ................  Custom Development Environment
+                   &X;;;::::;+;;+xX&&&&&&&                   IDE: ....................  VSCode, JetBrains Suite
+                   X+;;:..::;++;xXX$&&&&&                    
+                   X+;x;xxXXx;X&&&&&&&&&&&                   Languages.Programming:  Python, JavaScript, Java, C++
+                  +;x;:;+x$X:;x&&$$&&&&&&&&                  Languages.Computer: .... HTML, CSS, JSON, LaTeX, YAML
+                   ;+;:.:::::;x&&&XXX$&&&&                   Languages.Real: ........ English, Spanish
+                   ++;::.:;;;.x&&&$$$&&&&&                   
+                    ;;::.;+:+;&&&&XX$&&&&                    Hobbies.Software: ...... AI Development, Open-Source Contributions
+                     ;;::;+;+xX&&$$$&&&&                     Hobbies.Hardware: ...... PC Building, Overclocking
+                     x;;:+;:;+X&&$X$&&&&&                    
+                      x;;:::;+xX$$&&&&&&&&                   --------------------------------------------------------------------
+                       +++;:;+x$&&&&&&&&&&&&&                - Contact -
+                       &+x&&&&&&&&&&&&&&&&&&&&&&             Email.Personal: ........ jtgriffin95@gmail.com
+                    xxxX$+xxx$&$&&&&&&&$$&&$X&XXXX$$         Email.Work: ............ jack@griffin.dev
+                xxx+xx$&$&&&&&&&&&&&&&&X$$$XX&XXxXXX$X$&     LinkedIn: .............. linkedin.com/in/jackgriffindev
+             xxxxxxx+X&&X$$&&&&&&&&&&&xxXXXx$&xxXxxXXX$$$&   GitHub: ................ github.com/griffin1995
+          Xxxxxxx+++x&&X$$$$$$$&&&$&$$xXxxXxXXxxxxXXXXX$$$X$&  Discord: ............... jackgriffin#1234
+         Xxxxxx+++++$&&XXXXXXXX$$$&&$xxXxxxXx&$xxxxXX$XX$$$&&  
+         xxxxxx++x+x&&XXX$$$$$$$$$$$X+xxxxxX&&xxxxXXXXX$$X$&&  --------------------------------------------------------------------
+        XXxxxx+++++$&$XXXXXXXXXX$$$$+xxxxxxx&XXxxX$XXX$&XX&&&  - GitHub Stats -
+        XXxxxx+xxxx&&XXXX$XXXXX$$$$$+xxxxxx&$XXxX&&XxX&&x$&&&    Repos: ................. 120  {Contributed: 180}  |  Stars: ...... 400
+        Xxxxxx+xxx$&XXXX$$XX$X$$$$$xxxxxxxx&XXxxX&&XX&&xX&&&&    Commits: ............... 3,200  |  Followers: .... 250
+        XXXXxxxxxx&&X$$X$$$$$$$$$$$+xxxxxx&XXXXx$&&XX&&X$$&&&    Lines of Code on GitHub: 520,000  ( 600,000++, 120,000-- )
+```
+
+
+
 # 👋 Hello, I'm Jack Griffin!
 
 I'm a passionate **Full Stack Developer & Data Scientist** with expertise in **machine learning, quantitative finance, and web development**. I love working on innovative projects that combine **AI, cloud computing, and optimization techniques**.
