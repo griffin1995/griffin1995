@@ -2,15 +2,15 @@
 
 🚀 **Emerging Data Scientist | Machine Learning Researcher | Full Stack Developer**
 
-I'm a passionate **Data Scientist & Full Stack Developer** with expertise in **machine learning, quantitative finance, and web development**. I love working on innovative projects that combine **AI, cloud computing, and optimization techniques** to drive data-driven solutions.
+I am a passionate **Data Scientist & Full Stack Developer** with expertise in **machine learning, quantitative finance, and web development**. I enjoy working on innovative projects that combine **AI, cloud computing, and optimisation techniques** to drive data-driven solutions.
 
 
 ## 🚀 About Me
 - 🎓 **Education**: BSc in Computer Science @ Queen Mary University of London (Predicted: First-Class Honours)  
-- 🔬 **Research**: Advanced Sparse Portfolio Optimization and Financial Index Tracking  
+- 🔬 **Research**: Advanced Sparse Portfolio Optimisation and Financial Index Tracking  
 - 🌱 **Currently learning**: Advanced Deep Learning, Financial Engineering  
 - 🤝 **Open to collaborations** on: Machine Learning, FinTech, and Open-Source Projects  
-- 💬 **Ask me about**: Python, AI, Data Science, Portfolio Optimization  
+- 💬 **Ask me about**: Python, AI, Data Science, Portfolio Optimisation  
 - 📫 **How to reach me**:  
   📧 [jtgriffin95@gmail.com](mailto:jtgriffin95@gmail.com)  
   🌐 [jackgriffin.dev](https://jackgriffin.dev)  
@@ -36,14 +36,14 @@ I'm a passionate **Data Scientist & Full Stack Developer** with expertise in **m
 
 ## 🌟 Featured Projects
 
-### 🔹 Advanced Sparse Portfolio Optimization and Financial Index Tracking
+### 🔹 Advanced Sparse Portfolio Optimisation and Financial Index Tracking
 - Conducted research on **sparse index tracking**, an advanced technique for replicating financial indices with a limited set of assets.
-- Developed **optimization algorithms** using **Majorization-Minimization** methods to enhance performance and reduce transaction costs.
+- Developed **optimisation algorithms** using **Majorisation-Minimisation** methods to enhance performance and reduce transaction costs.
 - Implemented **Huber penalty measures** to improve portfolio robustness and manage noise in financial data.
 - Created a **Python-based backtesting framework** to evaluate portfolio performance using historical market data.
 - Engineered **AWS workflows** with Hadoop & Spark to efficiently process large-scale financial datasets.
-- Applied **mixed-integer programming (MIP) techniques** for solving high-dimensional portfolio optimization problems.
-- Explored **trade-offs between rebalancing frequency and transaction costs**, optimizing investment strategies for practical deployment.
+- Applied **mixed-integer programming (MIP) techniques** for solving high-dimensional portfolio optimisation problems.
+- Explored **trade-offs between rebalancing frequency and transaction costs**, optimising investment strategies for practical deployment.
 
 ### 🔹 Cryptocurrency Trading Platform
 - Built a **full-stack trading platform** integrating Binance & Coinbase APIs.  
@@ -61,4 +61,3 @@ I'm a passionate **Data Scientist & Full Stack Developer** with expertise in **m
 </p>
 
 🚀 *Let's build something amazing together!*
-
