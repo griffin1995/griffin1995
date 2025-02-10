@@ -21,7 +21,7 @@ I am a passionate **Data Scientist & Full Stack Developer** with expertise in **
 🟢 Python &nbsp;&nbsp; 🟡 JavaScript &nbsp;&nbsp; 🔵 SQL &nbsp;&nbsp; 🔴 Java  
 
 **Data Science & ML:**  
-📊 TensorFlow &nbsp;&nbsp; 📈 scikit-learn &nbsp;&nbsp; 🔥 Spark &nbsp;&nbsp; 📉 Pandas &nbsp;&nbsp; 🔣 NumPy &nbsp;&nbsp; 📊 Matplotlib &nbsp;&nbsp; 🎨 Seaborn  
+📊 TensorFlow &nbsp;&nbsp; 🔦 PyTorch &nbsp;&nbsp; 📈 scikit-learn &nbsp;&nbsp; 🔥 Spark &nbsp;&nbsp; 📉 Pandas &nbsp;&nbsp; 🔣 NumPy &nbsp;&nbsp; 📊 Matplotlib &nbsp;&nbsp; 🎨 Seaborn  
 
 **Web Development:**  
 🔹 React &nbsp;&nbsp; 🔹 Node.js &nbsp;&nbsp; 🔹 Express.js &nbsp;&nbsp; 🔹 MongoDB  
