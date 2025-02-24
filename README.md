@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Jack Griffin!
 
-🚀 **Data Scientist | Machine Learning Researcher | Full Stack Developer**
+🚀 **Data Scientist | Software Engineering  | Full Stack Developer**
 
 I am a Computer Science student with expertise in **machine learning, quantitative finance, and web development**. Standing at the intersection of technological innovation and data-driven decision making, I enjoy working on projects that combine **AI, cloud computing, and optimisation techniques** to solve real-world problems.
 
