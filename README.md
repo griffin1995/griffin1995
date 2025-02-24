@@ -15,27 +15,21 @@ I am a passionate **Data Scientist & Full Stack Developer** with expertise in **
   📧 [jtgriffin95@gmail.com](mailto:jtgriffin95@gmail.com)  
   🌐 [jackgriffin.dev](https://jackgriffin.dev)  
 
-
 ## 🛠️ Tech Stack
 
 ### 🧠 Machine Learning & Data Science
-- 📊 **TensorFlow** | 📈 **scikit-learn** | 🔥 **Spark**
-- 📉 **Risk Modelling** | 📊 **Backtesting** | 📐 **Sparse Optimisation**
+- 📊 **TensorFlow** | 📈 **scikit-learn** | 🔥 **Spark** | 📉 **Risk Modelling** | 📊 **Backtesting** | 📐 **Sparse Optimisation**
 
 ### ☁️ Cloud & Engineering
-- 🌥️ **AWS** (EC2, S3, Auto-scaling) | 🖥️ **Hadoop**
-- 🐳 **Docker** | ⚙️ **Kubernetes** | 🔄 **APIs**
+- 🌥️ **AWS** (EC2, S3, Auto-scaling) | 🖥️ **Hadoop** | 🐳 **Docker** | ⚙️ **Kubernetes** | 🔄 **APIs**
 - 🔁 **CI/CD** | 🌐 **Distributed Systems**
 
 ### 💻 Programming
-- 🐍 **Python** | 📜 **JavaScript** | 📂 **SQL**
-- ⚛️ **React** | 📦 **Node.js** | 🍃 **MongoDB**
+- 🐍 **Python** | 📜 **JavaScript** | 📂 **SQL** | ⚛️ **React** | 📦 **Node.js** | 🍃 **MongoDB**
 - 📄 **HTML** | 🎨 **CSS** | 🖌️ **SASS** | 🔀 **Git**
 
 ### 📋 Business & Communication
-- 🔍 **Analytical Thinking** | 📊 **Sales Strategy**
-- 🤝 **Client Acquisition** | 📝 **Technical Writing**
-- 🔄 **Adaptability**
+- 🔍 **Analytical Thinking** | 📊 **Sales Strategy** | 🤝 **Client Acquisition** | 📝 **Technical Writing** | 🔄 **Adaptability**
 
 
 ## 📊 GitHub Stats
