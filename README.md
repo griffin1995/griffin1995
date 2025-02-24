@@ -20,20 +20,20 @@ I am a passionate **Data Scientist & Full Stack Developer** with expertise in **
 
 ### 🧠 Machine Learning & Data Science
 - 📊 **TensorFlow** | 📈 **scikit-learn** | 🔥 **Spark**
-- 📊 **Risk Modelling** | 📉 **Backtesting** | 📐 **Sparse Optimisation**
+- 📉 **Risk Modelling** | 📊 **Backtesting** | 📐 **Sparse Optimisation**
 
 ### ☁️ Cloud & Engineering
 - 🌥️ **AWS** (EC2, S3, Auto-scaling) | 🖥️ **Hadoop**
 - 🐳 **Docker** | ⚙️ **Kubernetes** | 🔄 **APIs**
-- 🔄 **CI/CD** | 🌐 **Distributed Systems**
+- 🔁 **CI/CD** | 🌐 **Distributed Systems**
 
 ### 💻 Programming
-- 🟢 **Python** | 🟡 **JavaScript** | 🔵 **SQL**
-- 🔹 **React** | 🔹 **Node.js** | 🔹 **MongoDB**
-- 🔹 **HTML** | 🔹 **CSS** | 🔹 **SASS** | 🔹 **Git**
+- 🐍 **Python** | 📜 **JavaScript** | 📂 **SQL**
+- ⚛️ **React** | 📦 **Node.js** | 🍃 **MongoDB**
+- 📄 **HTML** | 🎨 **CSS** | 🖌️ **SASS** | 🔀 **Git**
 
 ### 📋 Business & Communication
-- 🧠 **Analytical Thinking** | 💼 **Sales Strategy**
+- 🔍 **Analytical Thinking** | 📊 **Sales Strategy**
 - 🤝 **Client Acquisition** | 📝 **Technical Writing**
 - 🔄 **Adaptability**
 
