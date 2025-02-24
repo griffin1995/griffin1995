@@ -1,61 +1,95 @@
+Here's the full Markdown for your GitHub profile README:
+
+```markdown
 # 👋 Hello, I'm Jack Griffin!
 
-🚀 **Emerging Data Scientist | Machine Learning Researcher | Full Stack Developer**
+🚀 **Data Scientist | Machine Learning Researcher | Full Stack Developer**
 
-I am a passionate **Data Scientist & Full Stack Developer** with expertise in **machine learning, quantitative finance, and web development**. I enjoy working on innovative projects that combine **AI, cloud computing, and optimisation techniques** to drive data-driven solutions.
-
+I am a Computer Science student with expertise in **machine learning, quantitative finance, and web development**. Standing at the intersection of technological innovation and data-driven decision making, I enjoy working on projects that combine **AI, cloud computing, and optimisation techniques** to solve real-world problems.
 
 ## 🚀 About Me
-- 🎓 **Education**: BSc in Computer Science @ Queen Mary University of London (Predicted: First-Class Honours)  
-- 🔬 **Research**: Advanced Sparse Portfolio Optimisation and Financial Index Tracking  
-- 🌱 **Currently learning**: Advanced Deep Learning, Financial Engineering  
-- 🤝 **Open to collaborations** on: Machine Learning, FinTech, and Open-Source Projects  
-- 💬 **Ask me about**: Python, AI, Data Science, Portfolio Optimisation  
+
+---
+
+- 🎓 **Education**: 
+  - BSc in Computer Science @ Queen Mary University of London (Predicted: First-Class Honours, June 2025)
+  - Access to Higher Education: Computer Science @ CONEL (Distinction 45/45, June 2022)
+- 🔬 **Research Focus**: Advanced Sparse Portfolio Optimisation and Financial Index Tracking
+- 🌱 **Currently Exploring**: Advanced Deep Learning, Financial Engineering, Predictive Analytics
+- 🤝 **Open to Collaborations** on: Machine Learning, FinTech, and Open-Source Projects
+- 💬 **Ask me about**: Python, AI, Data Science, Portfolio Optimisation, Web Development
 - 📫 **How to reach me**:  
   📧 [jtgriffin95@gmail.com](mailto:jtgriffin95@gmail.com)  
+  🔗 [linkedin.com/in/jackgriffindev](https://www.linkedin.com/in/jackgriffindev/)  
   🌐 [jackgriffin.dev](https://jackgriffin.dev)  
 
 ## 🛠️ Tech Stack
+
+---
 
 **🐍 Languages & Core Technologies**  
 🐍 Python • 📜 JavaScript • 📂 SQL • 🔀 Git • 🌐 Distributed Systems
 
 **📊 Data Science & Analytics**  
-📊 TensorFlow • 📈 scikit-learn • 🔥 Spark • 📉 Backtesting • 📐 Sparse Optimisation
+📊 TensorFlow • 📈 scikit-learn • 🔥 Spark • 📉 Backtesting • 📐 Sparse Optimisation • 📊 NumPy • 🐼 Pandas
 
 **☁️ Infrastructure & DevOps**  
 🌥️ AWS (EC2, S3, Auto-scaling) • 🐳 Docker • ⚙️ Kubernetes • 🔁 CI/CD • 🖥️ Hadoop
 
 **🖥️ Web Development**  
-⚛️ React • 📦 Node.js • 🍃 MongoDB • 📄 HTML • 🎨 CSS • 🖌️ SASS • 🔄 APIs
+⚛️ React • 📦 Node.js • 🍃 MongoDB • 📄 HTML • 🎨 CSS • 🖌️ SASS • 🔄 APIs • 🔒 JWT Authentication
 
 **💼 Business & Strategy**  
-🔍 Analytical Thinking • 📊 Risk Modelling • 📝 Technical Writing • 🤝 Client Acquisition • 🔄 Adaptability*
-
+🔍 Analytical Thinking • 📊 Risk Modelling • 📝 Technical Writing • 🤝 Client Acquisition • 🔄 Adaptability
 
 ## 📊 GitHub Stats
+
+---
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=griffin1995&show_icons=true&theme=radical)  
 
+## 💻 Featured Projects
 
-## 🌟 Featured Projects
+---
 
-### 🔹 Advanced Sparse Portfolio Optimisation and Financial Index Tracking
-- Conducted research on **sparse index tracking**, an advanced technique for replicating financial indices with a limited set of assets.
-- Developed **optimisation algorithms** using **Majorisation-Minimisation** methods to enhance performance and reduce transaction costs.
-- Implemented **Huber penalty measures** to improve portfolio robustness and manage noise in financial data.
-- Created a **Python-based backtesting framework** to evaluate portfolio performance using historical market data.
-- Engineered **AWS workflows** with Hadoop & Spark to efficiently process large-scale financial datasets.
-- Applied **mixed-integer programming (MIP) techniques** for solving high-dimensional portfolio optimisation problems.
-- Explored **trade-offs between rebalancing frequency and transaction costs**, optimising investment strategies for practical deployment.
+### 📈 Quantitative Sparse Portfolio Optimisation for Index Replication
 
-### 🔹 Cryptocurrency Trading Platform
-- Built a **full-stack trading platform** integrating Binance & Coinbase APIs.  
-- Developed a **real-time order matching engine** with MERN stack.  
-- Implemented **secure JWT-based authentication** with role-based access control.  
+- Developed **sparse index tracking algorithms** using Majorisation-Minimisation and Huber penalties, improving portfolio replication accuracy over traditional methods
+- Built a **Python-based backtesting framework** (pandas, NumPy) to simulate market conditions, improving risk assessment and predictive reliability
+- Designed **AWS-based data pipelines** (Hadoop, Spark) to process 10TB+ of financial data, significantly improving computational efficiency
+- Applied **ℓ₀- and ℓ₁-norm approximations** with surrogate functions to maintain accuracy while improving efficiency compared to direct ℓ₁-regularisation
+- Developed **scalable index tracking models** using convex relaxation and mixed-integer optimisation for large asset universes
+- Created **predictive models** to optimise rebalancing intervals, reducing transaction costs by ~12% while balancing tracking accuracy and liquidity constraints
 
+### 💱 Cryptocurrency Trading Platform with API Integration
 
+- Architected a **full-stack cryptocurrency trading platform** using the MERN stack, incorporating robust JWT-based authentication
+- Developed a **real-time order matching engine** integrating Binance and Coinbase APIs for accurate price discovery
+- Built a **modular backend** using Express.js and MongoDB for secure, scalable authentication and API integration
+- Implemented **role-based access control** to ensure secure data handling in simulated trading scenarios
+
+## 💼 Professional Experience
+
+---
+
+### Freelance Full Stack Developer – London, UK (July 2020 – September 2022)
+
+- Designed and deployed a **client acquisition system** using a UK business database API, identifying 1,000+ high-revenue businesses weekly
+- Automated **website code scraping and technology analysis**, identifying 100+ potential clients weekly by targeting outdated frameworks
+- Optimised **React components** (code splitting, lazy loading) and Node.js server-side data fetching, increasing user engagement by 40%
+- Developed **secure APIs** with the MERN stack, using JWT authentication and caching to improve security and processing speed
+- Delivered **bespoke website solutions** for 10+ clients with 100% retention rate through effective communication
+
+## 🌉 Bridging Technology and Analytics
+
+---
+
+The synergy between my web development experience and data science skills allows me to offer a unique perspective on both creating impactful web solutions and deriving meaningful insights from complex datasets. This dual focus equips me with a holistic view of the technological landscape, from front-end development to back-end data processing.
 
 ## 🔗 Connect with Me  
+
+---
+
 <p>
   <a href="https://linkedin.com/in/jackgriffindev"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"></a>
   <a href="mailto:jtgriffin95@gmail.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"></a>
@@ -64,3 +98,6 @@ I am a passionate **Data Scientist & Full Stack Developer** with expertise in **
 </p>
 
 🚀 *Let's build something amazing together!*
+```
+
+You can now easily copy and paste this into your GitHub profile README.md file.
