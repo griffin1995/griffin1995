@@ -6,7 +6,7 @@ I am a Computer Science student with expertise in **machine learning, quantitati
 
 ## 🚀 About Me
 
----
+
 
 - 🎓 **Education**: 
   - BSc in Computer Science @ Queen Mary University of London (Predicted: First-Class Honours, June 2025)
@@ -22,7 +22,7 @@ I am a Computer Science student with expertise in **machine learning, quantitati
 
 ## 🛠️ Tech Stack
 
----
+
 
 **🐍 Languages & Core Technologies**  
 🐍 Python • 📜 JavaScript • 📂 SQL • 🔀 Git • 🌐 Distributed Systems
@@ -41,13 +41,13 @@ I am a Computer Science student with expertise in **machine learning, quantitati
 
 ## 📊 GitHub Stats
 
----
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=griffin1995&show_icons=true&theme=radical)  
 
 ## 💻 Featured Projects
 
----
+
 
 ### 📈 Quantitative Sparse Portfolio Optimisation for Index Replication
 
@@ -67,7 +67,7 @@ I am a Computer Science student with expertise in **machine learning, quantitati
 
 ## 💼 Professional Experience
 
----
+
 
 ### Freelance Full Stack Developer – London, UK (July 2020 – September 2022)
 
@@ -79,13 +79,13 @@ I am a Computer Science student with expertise in **machine learning, quantitati
 
 ## 🌉 Bridging Technology and Analytics
 
----
+
 
 The synergy between my web development experience and data science skills allows me to offer a unique perspective on both creating impactful web solutions and deriving meaningful insights from complex datasets. This dual focus equips me with a holistic view of the technological landscape, from front-end development to back-end data processing.
 
 ## 🔗 Connect with Me  
 
----
+
 
 <p>
   <a href="https://linkedin.com/in/jackgriffindev"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"></a>
