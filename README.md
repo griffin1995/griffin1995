@@ -17,19 +17,20 @@ I am a passionate **Data Scientist & Full Stack Developer** with expertise in **
 
 ## 🛠️ Tech Stack
 
-### 🧠 Machine Learning & Data Science
-- 📊 **TensorFlow** | 📈 **scikit-learn** | 🔥 **Spark** | 📉 **Risk Modelling** | 📊 **Backtesting** | 📐 **Sparse Optimisation**
+**🐍 Languages & Core Technologies**  
+🐍 Python • 📜 JavaScript • 📂 SQL • 🔀 Git • 🌐 Distributed Systems
 
-### ☁️ Cloud & Engineering
-- 🌥️ **AWS** (EC2, S3, Auto-scaling) | 🖥️ **Hadoop** | 🐳 **Docker** | ⚙️ **Kubernetes** | 🔄 **APIs**
-- 🔁 **CI/CD** | 🌐 **Distributed Systems**
+**📊 Data Science & Analytics**  
+📊 TensorFlow • 📈 scikit-learn • 🔥 Spark • 📉 Backtesting • 📐 Sparse Optimisation
 
-### 💻 Programming
-- 🐍 **Python** | 📜 **JavaScript** | 📂 **SQL** | ⚛️ **React** | 📦 **Node.js** | 🍃 **MongoDB**
-- 📄 **HTML** | 🎨 **CSS** | 🖌️ **SASS** | 🔀 **Git**
+**☁️ Infrastructure & DevOps**  
+🌥️ AWS (EC2, S3, Auto-scaling) • 🐳 Docker • ⚙️ Kubernetes • 🔁 CI/CD • 🖥️ Hadoop
 
-### 📋 Business & Communication
-- 🔍 **Analytical Thinking** | 📊 **Sales Strategy** | 🤝 **Client Acquisition** | 📝 **Technical Writing** | 🔄 **Adaptability**
+**🖥️ Web Development**  
+⚛️ React • 📦 Node.js • 🍃 MongoDB • 📄 HTML • 🎨 CSS • 🖌️ SASS • 🔄 APIs
+
+**💼 Business & Strategy**  
+🔍 Analytical Thinking • 📊 Risk Modelling • 📝 Technical Writing • 🤝 Client Acquisition • 🔄 Adaptability*
 
 
 ## 📊 GitHub Stats
