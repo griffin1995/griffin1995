@@ -18,17 +18,24 @@ I am a passionate **Data Scientist & Full Stack Developer** with expertise in **
 
 ## 🛠️ Tech Stack
 
-**Machine Learning & Data Science:**  
-📊 TensorFlow &nbsp;&nbsp; 📈 scikit-learn &nbsp;&nbsp; 🔥 Spark &nbsp;&nbsp; 📊 Risk Modelling &nbsp;&nbsp; 📉 Backtesting &nbsp;&nbsp; 📐 Sparse Optimisation
+### 🧠 Machine Learning & Data Science
+- 📊 **TensorFlow** | 📈 **scikit-learn** | 🔥 **Spark**
+- 📊 **Risk Modelling** | 📉 **Backtesting** | 📐 **Sparse Optimisation**
 
-**Cloud & Engineering:**  
-☁️ AWS (EC2, S3, Auto-scaling) &nbsp;&nbsp; 🖥️ Hadoop &nbsp;&nbsp; 🐳 Docker &nbsp;&nbsp; ⚙️ Kubernetes &nbsp;&nbsp; 🔄 APIs &nbsp;&nbsp; 🔄 CI/CD &nbsp;&nbsp; 🌐 Distributed Systems
+### ☁️ Cloud & Engineering
+- 🌥️ **AWS** (EC2, S3, Auto-scaling) | 🖥️ **Hadoop**
+- 🐳 **Docker** | ⚙️ **Kubernetes** | 🔄 **APIs**
+- 🔄 **CI/CD** | 🌐 **Distributed Systems**
 
-**Programming:**  
-🟢 Python &nbsp;&nbsp; 🟡 JavaScript &nbsp;&nbsp; 🔵 SQL &nbsp;&nbsp; 🔹 React &nbsp;&nbsp; 🔹 Node.js &nbsp;&nbsp; 🔹 MongoDB &nbsp;&nbsp; 🔹 HTML &nbsp;&nbsp; 🔹 CSS &nbsp;&nbsp; 🔹 SASS &nbsp;&nbsp; 🔹 Git
+### 💻 Programming
+- 🟢 **Python** | 🟡 **JavaScript** | 🔵 **SQL**
+- 🔹 **React** | 🔹 **Node.js** | 🔹 **MongoDB**
+- 🔹 **HTML** | 🔹 **CSS** | 🔹 **SASS** | 🔹 **Git**
 
-**Business & Communication:**  
-🧠 Analytical Thinking &nbsp;&nbsp; 💼 Sales Strategy &nbsp;&nbsp; 🤝 Client Acquisition &nbsp;&nbsp; 📝 Technical Writing &nbsp;&nbsp; 🔄 Adaptability
+### 📋 Business & Communication
+- 🧠 **Analytical Thinking** | 💼 **Sales Strategy**
+- 🤝 **Client Acquisition** | 📝 **Technical Writing**
+- 🔄 **Adaptability**
 
 
 ## 📊 GitHub Stats
