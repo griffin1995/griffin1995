@@ -24,11 +24,11 @@ I am a Computer Science student with expertise in **machine learning, quantitati
 
 
 
-**🐍 Languages & Core Technologies**  
+**💻 Languages & Core Technologies**  
 🐍 Python • 📜 JavaScript • 📂 SQL • 🔀 Git • 🌐 Distributed Systems
 
 **📊 Data Science & Analytics**  
-📊 TensorFlow • 📈 scikit-learn • 🔥 Spark • 📉 Backtesting • 📐 Sparse Optimisation • 📊 NumPy • 🐼 Pandas
+🧠 TensorFlow • 📈 scikit-learn • 🔥 Spark • 📉 Backtesting • 📐 Sparse Optimisation • 🔢 NumPy • 🐼 Pandas
 
 **☁️ Infrastructure & DevOps**  
 🌥️ AWS (EC2, S3, Auto-scaling) • 🐳 Docker • ⚙️ Kubernetes • 🔁 CI/CD • 🖥️ Hadoop
