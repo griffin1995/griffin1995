@@ -58,13 +58,6 @@ I am a Computer Science student with expertise in **machine learning, quantitati
 - Developed **scalable index tracking models** using convex relaxation and mixed-integer optimisation for large asset universes
 - Created **predictive models** to optimise rebalancing intervals, reducing transaction costs by ~12% while balancing tracking accuracy and liquidity constraints
 
-### 💱 Cryptocurrency Trading Platform with API Integration
-
-- Architected a **full-stack cryptocurrency trading platform** using the MERN stack, incorporating robust JWT-based authentication
-- Developed a **real-time order matching engine** integrating Binance and Coinbase APIs for accurate price discovery
-- Built a **modular backend** using Express.js and MongoDB for secure, scalable authentication and API integration
-- Implemented **role-based access control** to ensure secure data handling in simulated trading scenarios
-
 ## 💼 Professional Experience
 
 
