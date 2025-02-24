@@ -1,6 +1,3 @@
-Here's the full Markdown for your GitHub profile README:
-
-```markdown
 # 👋 Hello, I'm Jack Griffin!
 
 🚀 **Data Scientist | Machine Learning Researcher | Full Stack Developer**
@@ -98,6 +95,3 @@ The synergy between my web development experience and data science skills allows
 </p>
 
 🚀 *Let's build something amazing together!*
-```
-
-You can now easily copy and paste this into your GitHub profile README.md file.
