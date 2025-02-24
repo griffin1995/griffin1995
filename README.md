@@ -28,16 +28,16 @@ I am a Computer Science student with expertise in **machine learning, quantitati
 🐍 Python • 📜 JavaScript • 📂 SQL • 🔀 Git • 🌐 Distributed Systems
 
 **📊 Data Science & Analytics**  
-🧠 TensorFlow • 📈 scikit-learn • 🔥 Spark • 📉 Backtesting • 📐 Sparse Optimisation • 🔢 NumPy • 🐼 Pandas
+🧠 TensorFlow • 📈 scikit-learn • 🔥 Spark • 📊 Backtesting • 📐 Sparse Optimisation • 🔢 NumPy • 🐼 Pandas
 
-**☁️ Infrastructure & DevOps**  
-🌥️ AWS (EC2, S3, Auto-scaling) • 🐳 Docker • ⚙️ Kubernetes • 🔁 CI/CD • 🖥️ Hadoop
+**🏗️ Infrastructure & DevOps**  
+🌥️ AWS (EC2, S3, Auto-scaling) • 🐋 Docker • ⚙️ Kubernetes • 🔄 CI/CD • 🖥️ Hadoop
 
-**🖥️ Web Development**  
-⚛️ React • 📦 Node.js • 🍃 MongoDB • 📄 HTML • 🎨 CSS • 🖌️ SASS • 🔄 APIs • 🔒 JWT Authentication
+**🖨️ Web Development**  
+⚛️ React • 📦 Node.js • 🍃 MongoDB • 📄 HTML • 🎨 CSS • 🖌️ SASS • 🔌 APIs • 🔒 JWT Authentication
 
 **💼 Business & Strategy**  
-🔍 Analytical Thinking • 📊 Risk Modelling • 📝 Technical Writing • 🤝 Client Acquisition • 🔄 Adaptability
+🔍 Analytical Thinking • 📉 Risk Modelling • 📝 Technical Writing • 🤝 Client Acquisition • 🔁 Adaptability
 
 ## 📊 GitHub Stats
 
