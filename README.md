@@ -12,6 +12,10 @@
 
 I'm building [aclue](https://jackgriffin.dev), a recommendation platform backed by a multi-stage ML pipeline - personality profiling, vector similarity search, Bayesian preference learning, and learning-to-rank scoring - with a Python/FastAPI backend and a Next.js frontend. I also work freelance. Background in quantitative finance research and a BSc in Computer Science (First-Class Honours, Queen Mary University of London).
 
+- Building out aclue's recommendation pipeline - Bayesian preference models, vector retrieval, and scoring
+- Learning ranking models and bandit algorithms for exploration-exploitation
+- Exploring SBERT and CLIP for product representation at scale
+
 ## Tech Stack
 
 **Backend & ML** - Python, FastAPI, PostgreSQL, pgvector, NumPy, Pandas, scikit-learn, Pydantic
@@ -25,6 +29,11 @@ I'm building [aclue](https://jackgriffin.dev), a recommendation platform backed 
 **[aclue](https://jackgriffin.dev)** - Recommendation platform with a multi-stage ML pipeline. Personality profiling maps users to a trait vector, pgvector retrieves candidates via cosine similarity, Bayesian preference models update in real-time from interaction signals, and a scoring model produces the final ranking. Built with FastAPI, Next.js, Supabase PostgreSQL, and Playwright for E2E testing.
 
 **[Sparse Portfolio Optimisation](https://github.com/griffin1995/portfolio-optimisation)** - BSc dissertation. Sparse index tracking using Majorisation-Minimisation and Huber penalties, with a custom backtesting framework (NumPy, Pandas). Reduced transaction costs by ~12% through optimised rebalancing intervals.
+
+## GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=griffin1995&show_icons=true&theme=default&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=griffin1995&theme=default&hide_border=true)
 
 ---
 
