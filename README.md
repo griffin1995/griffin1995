@@ -32,8 +32,32 @@ I'm building [aclue](https://jackgriffin.dev), a recommendation platform backed 
 
 ## GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=griffin1995&show_icons=true&theme=default&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=griffin1995&theme=default&hide_border=true)
+### 1. Stats Card (current)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=griffin1995&show_icons=true&theme=radical)
+
+### 2. Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=griffin1995&theme=radical)
+
+### 3. Trophy
+![Trophy](https://github-profile-trophy.vercel.app/?username=griffin1995&theme=radical&no-frame=true&row=1)
+
+### 4. Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=griffin1995&theme=redical)
+
+### 5. Top Languages (removed earlier, here for comparison)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=griffin1995&layout=compact&theme=radical)
+
+### 6. Stats Card - Terminal Style
+![Terminal Stats](https://github-stats-terminal-style.vercel.app/api?username=griffin1995&theme=radical)
+
+### 7. Profile View Counter
+![Profile Views](https://komarev.com/ghpvc/?username=griffin1995&color=blueviolet&style=for-the-badge)
+
+### 8. Followers Badge
+![Followers](https://img.shields.io/github/followers/griffin1995?style=for-the-badge&logo=github&label=Followers)
+
+### 9. Stars Badge
+![Stars](https://img.shields.io/github/stars/griffin1995?style=for-the-badge&logo=github&label=Total%20Stars)
 
 ---
 
